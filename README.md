@@ -25,4 +25,4 @@ The primary purpose of this tool is to help password crackers to crack passwords
 
 ## License
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_new" dideo-checked="true">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License - see the <a href="https://github.com/Dayana-World/dayana_dictionary_builder_GUI/blob/main/LICENSE.txt" target="_new" dideo-checked="true">LICENSE</a> file for details.</p>
