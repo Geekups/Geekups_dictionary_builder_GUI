@@ -13,7 +13,7 @@ The primary purpose of this tool is to help password crackers to crack passwords
 
 ## Installation
 
-<ol><li>Clone this repository: <code>git clone https://github.com/Dayana-World/dayana_dictionary_builder_GUI.git</code></li><li>Install the PyQt5 library: <code>pip install wxpython</code></li></ol>
+<ol><li>Clone this repository: <code>git clone https://github.com/Dayana-World/dayana_dictionary_builder_GUI.git</code></li><li>Install the wxpython library: <code>pip install wxpython</code></li></ol>
 
 ## Usage
 
