@@ -22,3 +22,7 @@ The primary purpose of this tool is to help password crackers to crack passwords
 ## Contributing
 
 <p>Contributions are welcome! If you find a bug or have a suggestion for a new feature, please open an issue on GitHub. Pull requests are also appreciated.</p>
+
+## License
+
+<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_new" dideo-checked="true">LICENSE</a> file for details.</p>
